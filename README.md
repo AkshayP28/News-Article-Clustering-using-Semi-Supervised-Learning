@@ -1,4 +1,5 @@
 # NewsArticleClustering
+
 A Semi-supervised learning model to categorize online news articles into genres. The model creates an initial structure of clusters to be used for classifying any further articles into the specified genres.
 
 Module 1 - Pre-Processing:
